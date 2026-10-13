@@ -42,6 +42,7 @@ cd [nome-da-pasta-do-projeto]
 
 ### Passo 3: Baixar/Atualizar as Dependências
 ​Antes de rodar a aplicação, certifique-se de que todas as dependências do Flutter estão atualizadas:
+```bash
 flutter pub get
 
 
